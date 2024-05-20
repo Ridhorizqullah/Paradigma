@@ -18,9 +18,15 @@
     <ClCompile Include="relasi.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="composition.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="jantung.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Manusia.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

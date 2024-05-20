@@ -128,10 +128,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="composition.cpp" />
     <ClCompile Include="relasi.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="jantung.h" />
+    <ClInclude Include="Manusia.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
